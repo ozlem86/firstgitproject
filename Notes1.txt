@@ -1,2 +1,10 @@
 this is my first gitHup Class
 this is my second commit
+steps
+create a project
+create a githup repository
+go to githup
+create a new commit for the first time
+git init
+git add .
+git status
