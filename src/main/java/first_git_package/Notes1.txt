@@ -8,3 +8,5 @@ create a new commit for the first time
 git init
 git add .
 git status
+addin specifiic files
+create two java classes: my thirdclas and myfourthclass
